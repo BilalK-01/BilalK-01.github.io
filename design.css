@@ -1,0 +1,196 @@
+body
+{
+	background-color: #000;
+}
+
+p, h1
+{
+font-family: Roboto, Arial;
+color: #fff;
+}
+p.base, p.ilestvraique
+{
+	padding: 80px;
+	padding-left: 100px;
+}
+p
+{
+	font-size: 20px;
+}
+h1
+{
+	font-size: 20px;
+	padding-left: 100px;
+	position: absolute;
+	top: 9%;
+}
+button.ios
+{
+	border: 100px;
+	background-color: #000;
+	position: absolute;
+	top: 50%;
+	right: 60%;
+}
+button.android
+{
+	border: 100px;
+	background-color: #000;
+	position: absolute;
+	top: 50%;
+	left: 60%;
+}
+button.apple
+{
+	border: 100px;
+	background-color: #000;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+}
+p.ilestvraique
+{
+	font-size: 20px;
+	position: absolute;
+	left: 17%;
+}
+p.choisirmodeleios
+{
+	font-size: 35px;
+	position: absolute;
+	bottom: 72%;
+	left: 13%;
+}
+button.iPhone11
+{
+	border: 100px;
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: absolute;
+	bottom: 65%;
+	left: 20%;
+}
+p.prixios
+{
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: absolute;
+	bottom: 50%;
+	left: 30%;
+}
+button.iPhoneX
+{
+	border: 100px;
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: absolute;
+	bottom: 60%;
+	left: 20%;
+}
+button.iPhone8
+{
+	border: 100px;
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: absolute;
+	bottom: 55%;
+	left: 20%;
+}
+button.iPhone7
+{
+	border: 100px;
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: absolute;
+	bottom: 50%;
+	left: 20%;
+}
+p.infoios
+{
+	font-size: 23px;
+	position: absolute;
+	bottom: 27%;
+	left: 17%;
+}
+p.versanciennes
+{
+	font-size: 25px;
+	position: absolute;
+	bottom: 15%;
+	left: 17%;
+}
+img.imgiphone11
+{
+	position: fixed;
+	top: 20%;
+	left: 34%;
+}
+h1.titresurimg
+{
+	position: fixed;
+	font-size: 30px;
+	top: 10%;
+	left: 30%;
+}
+img.imgiphonex
+{
+	position: fixed;
+	top: 25%;
+	left: 34%;
+}
+img.imgiphone8
+{
+	position: fixed;
+	top: 25%;
+	left: 32%;
+}
+img.imgiphone7
+{
+	position: fixed;
+	top: 25%;
+	left: 31%;
+}
+p.carac
+{
+	position: absolute;
+	left: 57%;
+}
+button.retour
+{
+	border: 20px;
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: fixed;
+	bottom: 30%;
+	left: 10%;
+}
+button.acheter
+{
+	/*border: 20px;*/
+	color: #fff;
+	font-size: 25px;
+	background-color: #000;
+	position: fixed;
+	bottom: 30%;
+	left: 37%;
+}
+button.samsung
+{
+	border: 100px;
+	background-color: #000;
+	position: absolute;
+	top: 35%;
+	left: 40%;
+}
+img.imgsgs20
+{
+	position: fixed;
+	top: 20%;
+	left: 34%;
+}
